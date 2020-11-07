@@ -27,7 +27,7 @@ SECRET_KEY = '6s3(l^4#-85kb85eebsx4^1q3s8%tty-st-a*=x4mzg%8)7zal'
 DEBUG = False
 
 # ALLOWED_HOSTS = []
-ALLOWED_HOSTS = ['127.0.0.1','educa-web.herokuapp.com']
+ALLOWED_HOSTS = [".herokuapp.com","educa-web"]
 
 
 # Application definition
